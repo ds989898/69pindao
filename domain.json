@@ -1,80 +1,13 @@
-{
-	"code": 200,
-	"data": [{
-			"id": 1,
-			"url": "https:\/\/69app1.com",
-			"state": 1
-		},
-		{
-			"id": 2,
-			"url": "https:\/\/69app2.com",
-			"state": 1
-		},
-		{
-			"id": 3,
-			"url": "https:\/\/69app3.com",
-			"state": 1
-		},
-		{
-			"id": 4,
-			"url": "https:\/\/69app4.com",
-			"state": 1
-		},
-		{
-			"id": 5,
-			"url": "https:\/\/69app5.com",
-			"state": 1
-		},
-		{
-			"id": 6,
-			"url": "https:\/\/69app6.com",
-			"state": 1
-		},
-		{
-			"id": 7,
-			"url": "https:\/\/69app7.com",
-			"state": 1
-		},
-		{
-			"id": 8,
-			"url": "https:\/\/69app8.com",
-			"state": 1
-		},
-		{
-			"id": 9,
-			"url": "https:\/\/69app9.com",
-			"state": 1
-		},
-		{
-			"id": 10,
-			"url": "https:\/\/69app10.com",
-			"state": 1
-		},
-		{
-			"id": 11,
-			"url": "https:\/\/69app11.com",
-			"state": 1
-		},
-		{
-			"id": 12,
-			"url": "https:\/\/69app12.com",
-			"state": 1
-		},
-		{
-			"id": 13,
-			"url": "https:\/\/69app13.com",
-			"state": 1
-		},
-		{
-			"id": 14,
-			"url": "https:\/\/69app14.com",
-			"state": 1
-		},
-		{
-			"id": 15,
-			"url": "https:\/\/69app15.com",
-			"state": 1
-		}
-
-	]
+{ “ code ”：200，“ data ”：[
+	{ “ id ”：1，“ url ”：“ https：\ / \ / www.69app1.com ”，“州”：1 }，
+	{ “ id ”：2，“ url ”：“ https：\ / \ / www.69app2.com ”，“州”：1 }，
+	{ “ id ”：3，“ url ”：“ https：\ / \ / www.69app3.com ”，“州”：1 }，
+	{ “ id ”：4，“ url ”：“ https：\ / \ / www.69app4.com ”，“州”：1 }，
+	{ “ id ”：5，“ url ”：“ https：\ / \ / www.69app5.com ”，“州”：1 }，
+	{ “ id ”：6，“ url ”：“ https：\ / \ / www.69app6.com ”，“州”：1 }，
+	{ “ id ”：7，“ url ”：“ https：\ / \ / www.69app7.com ”，“州”：1 }，
+	{ “ id ”：8，“ url ”：“ https：\ / \ / www.69app8.com ”，“州”：1 }，
+	{ “ id ”：9，“ url ”：“ https：\ / \ / www.69app9.com ”，“州”：1 }，
+	{ “ id ”：10，“ url ”：“ https：\ / \ / www.69app10.com ”，“州”：1 }，
+]
 }
